@@ -1,3 +1,3 @@
-var text1 = "asd";
+var text1 = "asdasdasd";
 
 console.log(text1);

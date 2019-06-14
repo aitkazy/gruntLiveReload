@@ -1,3 +1,3 @@
-var test = "aitkazy";
+var test = "aitkazyasdasd";
 
 console.log(test);
